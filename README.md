@@ -6,7 +6,6 @@ This Crime Reporting System is in PHP, CSS, JavaScript. The user (victims) can s
 ![image-006](https://github.com/saadii007/Crime-reporting-System/assets/126228618/a2543144-141f-4dbf-a43f-68806b8cbb8e)
 
 
-# How To Run The Project?
 To run this project, you must have installed a virtual server i.e XAMPP on your PC (for Windows).
 
 1st Step: Extract file
